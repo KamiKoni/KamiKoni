@@ -1,14 +1,16 @@
 ## Hi there 👋
 <p align="center">
-  <a href="https://tcno.co"><img src="https://i.imgur.com/fd1beCe.png" alt="TCNO logo" width="60%"></a>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
   
-I'm Argenis, a freelancer developer, student from Riwi (https://riwi.io/) on my way to become a full fleshed out developer.
-I mostly spend my time doing exercises, and this is where you can find it.
+I'm Argenis, a development student from Riwi (https://riwi.io/), I'm on my way to become a full fleshed out developer.
+I mostly spend my time doing exercises from Riwi, and 
 
 <p align="center">
  <a href="https://discord.com/users/989674674965344296"><img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="Argenisdavid212@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 <h3 align="center">Languages I've worked with</h3>
@@ -27,4 +29,6 @@ I mostly spend my time doing exercises, and this is where you can find it.
     <a href="https://github.com/KamiKoni">
       <img align="top" src="https://github-readme-stats.vercel.app/api?username=KamiKoni&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="KamiKoni's GitHub Stats" />
     </a>
+</p>
+![Snake animation](https://github.com/KamiKoni/KamiKoni/blob/output/github-contribution-grid-snake.svg)
 </p>
