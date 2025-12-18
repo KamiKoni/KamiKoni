@@ -1,7 +1,5 @@
 ## Hi there 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<p align="center"><img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/9b7c1158-3d3e-4713-8e04-e49a2ee36c69" />
 
   
 I'm Argenis, a development student from Riwi (https://riwi.io/), I'm on my way to become a full fleshed out developer.
