@@ -18,7 +18,7 @@ I mostly spend my time doing exercises from Riwi, and
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </p>
-### Stats 📈
+## Stats 📈
 
 <p align="center">
     <a href="https://github.com/KamiKoni">
@@ -27,6 +27,3 @@ I mostly spend my time doing exercises from Riwi, and
     <a href="https://github.com/KamiKoni">
       <img align="top" src="https://github-readme-stats.vercel.app/api?username=KamiKoni&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="KamiKoni's GitHub Stats" />
     </a>
-</p>
-![Snake animation](https://github.com/KamiKoni/KamiKoni/blob/output/github-contribution-grid-snake.svg)
-</p>
