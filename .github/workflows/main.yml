@@ -1,15 +1,10 @@
 name: Generate Datas
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write # Grants write access for the job
-    steps:
-      # ... your existing steps ...
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   build:
     name: Jobs to update datas
