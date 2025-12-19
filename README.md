@@ -3,7 +3,7 @@
 
   
 I'm Argenis, a development student from Riwi (https://riwi.io/), I'm on my way to become a full fleshed out developer.
-I mostly spend my time doing exercises from Riwi, and 
+I mostly spend my time doing exercises from Riwi, and down here you can contact me.
 
 <p align="center">
  <a href="https://discord.com/users/989674674965344296"><img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
