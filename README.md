@@ -27,3 +27,7 @@ I mostly spend my time doing exercises from Riwi, and down here you can contact 
     <a href="https://github.com/KamiKoni">
       <img align="top" src="https://github-readme-stats.vercel.app/api?username=KamiKoni&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="KamiKoni's GitHub Stats" />
     </a>
+<div align="center">
+    
+  ![snake gif](https://github.com/KamiKoni/KamiKoni/blob/output/github-snake-dark.svg)
+</div>
