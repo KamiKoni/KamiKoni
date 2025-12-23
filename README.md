@@ -18,7 +18,7 @@ I mostly spend my time doing exercises from Riwi, and down here you can contact 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </p>
-## Stats 📈
+<h2>Stats</h2> 📈
 
 <p align="center">
     <a href="https://github.com/KamiKoni">
