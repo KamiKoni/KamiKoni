@@ -25,7 +25,6 @@ I'm **Argenis Flores**, a passionate development student at **Riwi** ([riwi.io](
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
@@ -35,28 +34,7 @@ I'm **Argenis Flores**, a passionate development student at **Riwi** ([riwi.io](
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-## 📂 Featured Projects
-
-### 🕒 [ClockHub](https://github.com/KamiKoni/simulacro_typescript)
-A comprehensive full-stack scheduling application built with modern technologies.
-
-**Tech Stack:** Next.js 16, TypeScript, PostgreSQL, Prisma, JWT, Tailwind CSS
-
-**Features:**
-- 🔐 **Authentication & Authorization**: JWT with access/refresh tokens and RBAC
-- 👥 **User Management**: CRUD operations with role-based permissions
-- 📅 **Schedule Management**: Conflict detection and comprehensive scheduling
-- 📊 **Dashboard**: Responsive UI with real-time data
-- 📋 **Audit Logging**: Complete activity tracking
-- 🎨 **Modern UI**: Clean, responsive design with Tailwind CSS
-
-**Key Highlights:**
-- Production-ready architecture with proper error handling
-- TypeScript strict typing throughout
-- Clean code with consolidated utilities
-- Comprehensive API with RESTful endpoints
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KamiKoni&show_icons=true&theme=dark&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="KamiKoni's GitHub Stats"/>
