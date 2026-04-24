@@ -1,19 +1,19 @@
-# 👋 Hi there! I'm Argenis Flores
+# Hi there! I'm Argenis Flores
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9b7c1158-3d3e-4713-8e04-e49a2ee36c69" alt="github-header-banner" width="100%" height="200"/>
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm **Argenis Flores**, a passionate development student at **Riwi** ([riwi.io](https://riwi.io/)), on my journey to become a full-stack developer. I love coding, learning new technologies, and building meaningful projects.
 
-- 🎓 **Currently studying** at Riwi
-- 💻 **Focus**: Full-Stack Development
-- 🌱 **Learning**: TypeScript, React, Node.js, and more
-- 🎯 **Goal**: Become a proficient full-stack developer
+- Currently studying at Riwi
+- Focus: Full-Stack Development
+- Learning: TypeScript, React, Node.js, and more
+- Goal: Become a proficient full-stack developer
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,14 +34,14 @@ I'm **Argenis Flores**, a passionate development student at **Riwi** ([riwi.io](
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KamiKoni&show_icons=true&theme=dark&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="KamiKoni's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamiKoni&layout=compact&theme=dark&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Most Used Languages"/>
 </div>
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://discord.com/users/989674674965344296">
@@ -55,7 +55,7 @@ I'm **Argenis Flores**, a passionate development student at **Riwi** ([riwi.io](
   </a>
 </div>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <img src="https://github.com/KamiKoni/KamiKoni/blob/output/github-snake-dark.svg" alt="snake gif"/>
@@ -67,4 +67,4 @@ I'm **Argenis Flores**, a passionate development student at **Riwi** ([riwi.io](
   <img src="https://komarev.com/ghpvc/?username=KamiKoni&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-⭐ **Feel free to explore my repositories and don't hesitate to reach out!**
+Feel free to explore my repositories and don't hesitate to reach out!
