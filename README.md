@@ -40,6 +40,9 @@ I'm **Argenis Flores**, a passionate development student at **Riwi** ([riwi.io](
   <img height="180em" src="https://github-readme-stats-smoky-xi-32.vercel.app/api?username=KamiKoni&show_icons=true&theme=dark&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="KamiKoni's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-smoky-xi-32.vercel.app/api/top-langs/?username=KamiKoni&layout=compact&theme=dark&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Most Used Languages"/>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KamiKoni&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
 ## Connect With Me
 
@@ -62,9 +65,3 @@ I'm **Argenis Flores**, a passionate development student at **Riwi** ([riwi.io](
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KamiKoni&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-Feel free to explore my repositories and don't hesitate to reach out!
