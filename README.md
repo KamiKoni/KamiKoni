@@ -41,7 +41,6 @@ I'm **Argenis Flores**, a passionate development student at **Riwi** ([riwi.io](
   <img height="180em" src="https://github-readme-stats-smoky-xi-32.vercel.app/api/top-langs/?username=KamiKoni&layout=compact&theme=dark&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Most Used Languages"/>
 </div>
 
-
 ## Connect With Me
 
 <div align="center">
